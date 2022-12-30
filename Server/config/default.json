@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://todo-app-user:ZZkz16FePdqjfNuX@cluster0.23oaz.mongodb.net/Twitter-React?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
